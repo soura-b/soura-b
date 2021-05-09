@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Soura, and work at Lattice Innnovations, a  technology design & development firm.  
 
-- 🔭 I interface with our clients, and work on UI/ UX design (I designed my GitHub profile image)
+- 🔭 I interface with our clients, and work on UI/ UX design
 - 🌱 I’m currently studying machine learning; I use Octave as my prototyping environment 
 
 
