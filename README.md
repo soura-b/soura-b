@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Soura, and work at Lattice Innnovations, a  technology design & development firm.  
+My name is Soura, and work at [Lattice Innnovations](https://thelattice.in), a technology design & development firm.  
 
 - 🔭 I interact with our clients, conceptualize solutions, and design user experiences
 - 🌱 I enjoy learning about mathematics, physics, and philosophy. I believe they are united in a search for universal fundamentals. 
